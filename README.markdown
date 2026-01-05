@@ -12,5 +12,13 @@ com.shaderfactory.cozyshaders
 - In the folder you want to create your material in: Right click, go to  **'Create > Shader Factory > Cozy Materials...'**
 - In the 'Cozy Materials' category, you will have options of which material you would like to create. Each option will use a different shader and serves a different purpuse.
 
-## Shaders Included:
-*Insert Table here*
+For a list of what each option does, refer to the 'Shaders Included' section below:
+
+## Shaders Included (Scripts)
+Here is a list with brief descriptions of the shaders.
+
+| Name                      | Status             | Description                                                            |
+| ------------------------- | ------------------ | ---------------------------------------------------------------------- |
+| Cozy Surface Shader       | Available          | Should be used as a default shader for opaque surfaces                 |
+| Cozy Skin Shader          | Work in Progress   | Skin shader with light-weight SSS and layer composite for skin details |
+| Cozy Terrain Shader       | Work in Progress   | Terrain shader                                                         |
