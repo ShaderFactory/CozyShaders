@@ -10,7 +10,7 @@ com.shaderfactory.cozyshaders
 
 ## How to use
 - In the folder you want to create your material in: Right click, go to  **'Create > Shader Factory > Cozy Materials...'**
-- In the 'Cozy Materials' category, you will have options of which material you would like to create. Each option will use a different shader and serves a different purpuse.
+- In the 'Cozy Materials' category, you will have options of which material you would like to create. Each option will use a different shader and serves a different purpose.
 
 For a list of what each option does, refer to the 'Shaders Included' section below:
 
