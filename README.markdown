@@ -1,3 +1,5 @@
+![Image showing the different types of assets that you have access with this package.](https://quietfalls.net/wp-content/uploads/2026/01/CozyShader_Banner.jpg)
+
 CozyShaders is an Unity package that offers stylized shaders for surfaces, water and more. The package was initially intended for the project Quiet Falls, but can be used in any Unity Project.
 
 ## Package name
@@ -21,4 +23,4 @@ Here is a list with brief descriptions of the shaders.
 | ------------------------- | ------------------ | ---------------------------------------------------------------------- |
 | Cozy Surface Shader       | Available          | Should be used as a default shader for opaque surfaces                 |
 | Cozy Skin Shader          | Work in Progress   | Skin shader with light-weight SSS and layer composite for skin details |
-| Cozy Terrain Shader       | Work in Progress   | Terrain shader                                                         |
+| Cozy Terrain Shader       | Work in Progress   | Terrain shader with built-in season change parameters                  |
