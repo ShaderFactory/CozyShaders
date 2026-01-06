@@ -1,6 +1,6 @@
 ![Image showing the different types of assets that you have access with this package.](https://quietfalls.net/wp-content/uploads/2026/01/CozyShader_Banner2.jpg)
 
-CozyShaders is an Unity package that offers stylized shaders for surfaces, water and more. The package was initially intended for the project Quiet Falls, but can be used in any Unity Project.
+CozyShaders is an Unity Package that contains stylized shaders for the sky, terrain, water and surfaces.
 
 ## Package name
 com.shaderfactory.cozyshaders
