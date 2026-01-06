@@ -2,7 +2,7 @@ CozyShaders is an Unity Package that contains stylized shaders for the sky, terr
 
 ![Image showing the different types of assets that you have access with this package.](https://quietfalls.net/wp-content/uploads/2026/01/CozyShader_Banner2.jpg)
 
-## Package name
+## Package Name
 com.shaderfactory.cozyshaders
 
 ## How to install
