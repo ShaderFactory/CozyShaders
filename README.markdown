@@ -1,6 +1,6 @@
 CozyShaders is an Unity Package that contains stylized shaders for the sky, terrain, water and surfaces. :first_quarter_moon_with_face::seedling::droplet::house:
 
-![Image showing the different types of assets that you have access with this package.](https://quietfalls.net/wp-content/uploads/2026/01/CozyShader_Banner2.jpg)
+![Image showing the different types of assets that you have access with this package.](https://drive.usercontent.google.com/download?id=1LH1An_NGVKNom2bbpbdg4HtNOXC4jbVc&authuser=0)
 
 ## Package Name
 com.shaderfactory.cozyshaders
