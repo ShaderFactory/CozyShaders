@@ -177,20 +177,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "1fd852eee94f4e1c88bc3c3f4b6676f4"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "aa71ea94d06b40d5bffbd17ca3c90ea0"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "24f96411b0d24da5908a431883dfc1ba"
                 },
                 "m_SlotId": 0
@@ -242,6 +228,20 @@
                     "m_Id": "4547f266b57d408f84aa389cf5f2ee25"
                 },
                 "m_SlotId": 1
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "4547f266b57d408f84aa389cf5f2ee25"
+                },
+                "m_SlotId": 2
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "aa71ea94d06b40d5bffbd17ca3c90ea0"
+                },
+                "m_SlotId": 0
             }
         },
         {
@@ -434,7 +434,7 @@
         },
         "preventRotation": false
     },
-    "m_Path": "Shader Factory",
+    "m_Path": "Cozy Shaders",
     "m_GraphPrecision": 1,
     "m_PreviewMode": 2,
     "m_OutputNode": {
@@ -562,7 +562,7 @@
     "m_Title": "Inputs",
     "m_Position": {
         "x": -2626.999755859375,
-        "y": -24.000080108642579
+        "y": -23.99997329711914
     }
 }
 
@@ -572,8 +572,8 @@
     "m_ObjectId": "0d46189548274b8098b48069385d34c7",
     "m_Title": "WIP - ADDITIONAL LIGHTS SUPPORT",
     "m_Position": {
-        "x": -1800.9998779296875,
-        "y": 600.9998168945313
+        "x": -1801.0,
+        "y": 601.0000610351563
     }
 }
 
@@ -1920,8 +1920,8 @@
     "m_ObjectId": "885e4817c0e5480c82503ce38982d312",
     "m_Title": "Custom Lit Behaviour",
     "m_Position": {
-        "x": -1951.9998779296875,
-        "y": -55.00001907348633
+        "x": -1952.0,
+        "y": -54.99998474121094
     }
 }
 
