@@ -1,6 +1,6 @@
 using UnityEditor;
 using UnityEngine;
-
+#if UNITY_EDITOR
 public class CustomMaterialMenu
 {
     [MenuItem("Assets/Create/Shader Factory/Cozy Surface Material", false, 10)]
@@ -40,3 +40,4 @@ public class CustomMaterialMenu
         EditorGUIUtility.PingObject(createdMat);
     }
 }
+#endif

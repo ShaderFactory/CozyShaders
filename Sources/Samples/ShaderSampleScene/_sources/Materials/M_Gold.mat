@@ -44,6 +44,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Normal_Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Roughness_Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleReflectedCubemap_82fc331f0d9e48519d1b245a0b56f59a_Cube_1_Cubemap:
         m_Texture: {fileID: 8900000, guid: 213712648d1026545aa7d03850d1dfe9, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -69,6 +77,7 @@ Material:
     - _EdgeHighlightAmount: 0
     - _Metallic: 1
     - _Metallic_Value: 1
+    - _Normal_Strength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Roughness: 0.724

@@ -19,6 +19,7 @@ public class MainLightDirection : MonoBehaviour
     [SerializeField] private Gradient skyGradient;
     [SerializeField] private Gradient equatorGradient;
     [SerializeField] private Gradient groundGradient;
+    [SerializeField] private Gradient sunColorGradient;
 
     [Header("References")]
     [SerializeField] private Material skyMaterial;
@@ -54,6 +55,8 @@ public class MainLightDirection : MonoBehaviour
                 Tick();
             }
         }
+
+        Tick();
     }
 
     /// <summary>
@@ -73,8 +76,11 @@ public class MainLightDirection : MonoBehaviour
         RenderSettings.ambientSkyColor = skyGradient.Evaluate(DayNightRatio); 
         RenderSettings.ambientEquatorColor = equatorGradient.Evaluate(DayNightRatio);
         RenderSettings.ambientGroundColor = groundGradient.Evaluate(DayNightRatio);
+        lightComponent.color = sunColorGradient.Evaluate(DayNightRatio);
 
+        // Gradients created from Gradient Factory
         fogGradient = GradientFactory.CreateFogGradient();
+        sunColorGradient = GradientFactory.CreateSunColorGradient();
 
         if (skyMaterial != null)
         {

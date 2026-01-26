@@ -44,7 +44,7 @@ Material:
     - _CloudOpacity: 0
     - _CloudSpeedMultiplier: 1
     - _CloudThickness: 1
-    - _ExposureMultiplier: 1
+    - _ExposureMultiplier: 1.45
     - _HorizonBlend: 10
     - _NadirBlend: 4.8
     - _QueueControl: 0
@@ -52,18 +52,19 @@ Material:
     - _StarHeight: 200
     - _StarPower: 30
     - _StarsIntensity: 1
-    - _SunIntensity: 50
+    - _SunIntensity: 9
     - _SunSize: 0.05
     - _TEST_VALUE_1: 5
+    - _XRMotionVectorsPass: 1
     - _ZenithBlend: 0.6
     m_Colors:
     - _GroundColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainLightDirection: {r: 0.5808006, g: -0.31296366, b: 0.7514814, a: 0}
+    - _MainLightDirection: {r: 0.21598268, g: -0.58495754, b: 0.78177756, a: 0}
     - _REMAP_TEST_1: {r: 0, g: 0, b: 0, a: 0}
     - _REMAP_TEST_2: {r: 0, g: 0, b: 0, a: 0}
     - _SkyColorDay: {r: 0.5803921, g: 0.8470588, b: 1, a: 1}
     - _SkyColorNight: {r: 0.10980386, g: 0.26666668, b: 0.43529406, a: 1}
-    - _SunColor: {r: 1, g: 0.969678, b: 0.9009434, a: 0}
+    - _SunColor: {r: 1, g: 0.68, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8242884423337705043
